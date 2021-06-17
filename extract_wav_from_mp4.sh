@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Hello world!"
 
-root_dir="/home/nas3/DB/AIHUB_Multimodal1/"
+root_dir="/home..."
 sub_dir_list="
 0401-0800/
 0801-1200/
