@@ -23,6 +23,3 @@ do
     echo $path
     python extract_wav_from_mp4.py --base_dir $path
 done
-
-python extract_wav_from_mp4.py\
- --base_dir $path
