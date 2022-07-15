@@ -1,4 +1,5 @@
 #!/bin/bash
+# execute python file in shell repeatedly, changing subdirectory path for argparse argument every time
 echo "Hello world!"
 
 root_dir="/home..."
